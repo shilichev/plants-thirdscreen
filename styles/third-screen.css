@@ -42,7 +42,6 @@
 .image-container__third-screen {
   display: flex;
   justify-content: center;
-  height: 50%;
 }
 .plant__third-screen {
   width: 100%;
